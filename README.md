@@ -1,7 +1,7 @@
 # CS_4261-First_Programming_Asgmt
 Created for the First Programming Assignment in CS 4261 at gatech using the sample app [Friendly Chat](https://codelabs.developers.google.com/codelabs/firebase-android/#0). Friendly Chat is a basic messaging app that uses Firebase to store user messages.
 
-<img alt="App Screenshot" src="/assets/Screenshot.png" title="App Screenshot" width="400" />
+<img alt="App Screenshot" src="Assets/Screenshot.png" title="App Screenshot" width="400" />
 
 ### Functionality of Friendly Chat
 
